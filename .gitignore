@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+
+# Build directory
+dist/
+
+# Environment files
+.env
+.env*.local
+
+# Uploads directory
+uploads/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
