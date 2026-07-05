@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://take-home-test-api.nutech-integrasi.com",
+      "url": "https://take-home-test-nutech-production-bc01.up.railway.app",
       "description": "Server Development"
     }
   ],
